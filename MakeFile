@@ -1,0 +1,2 @@
+BitNote: BitNote.c
+	$(CC) BitNote.c -o bitnote -Wall -Wextra -pedantic -std=c99
