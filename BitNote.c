@@ -1,5 +1,6 @@
 #include <unistd.h>
 #include <math.h>
+#include <stdio.h>
 
 int main(){
     char c;
