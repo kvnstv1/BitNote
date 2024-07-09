@@ -6,6 +6,6 @@ https://viewsourcecode.org/snaptoken/kilo/index.html
 
 I am also learning C at the same time through this experience.
 
-ATM I have completed about 5% of this project. 'c
+ATM I have completed about 5% of this project. 'c++
 
 
